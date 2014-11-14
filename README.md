@@ -1,4 +1,4 @@
-AFFA
+The AFFA Project
 ====
 
-This project is aims to fly three planes in formation flight using a payload computer and Ardupilot.
+This project aims to fly three planes in formation flight using a payload computer and Ardupilot.
